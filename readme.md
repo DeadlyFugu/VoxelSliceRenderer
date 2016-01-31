@@ -1,7 +1,7 @@
-Voxel Splice Renderer
+Voxel Slice Renderer
 =====================
 
-Hi there! This is a volumetric renderer that using raycasting. I was thinking like "Oi I should make like a volumetric renderer sometime" so I did that. Here it is.
+Hi there! This is a volumetric renderer that uses raycasting. I was thinking like "Oi I should make like a volumetric renderer sometime" so I did that. Here it is.
 
 Does it run a good?
 -------------------
@@ -23,6 +23,8 @@ Requires a directory, 'Dependencies' to be added in with the rest of the source 
 		... (some more glfw and glew crap)
 
 I don't know if I can just push that stuff to the repo also or not, so I'm playing it safe for now.
+
+Other than that it should just be a straightforward build using Visual Studio 2015.
 
 License
 -------
